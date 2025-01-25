@@ -37,7 +37,7 @@ A user-friendly dashboard displays real-time sensor readings, panel orientation,
 
 | **Component**                          | **What it looks like**             |
 |----------------------------------------|------------------------------------|
-| **1x Arduino UNO R3 (CH340)**          | <img src="[arduino_image_link](https://github.com/user-attachments/assets/12b00573-a18d-44c7-aaea-52e0c09ddd75)" width="50"> |
+| **1x Arduino UNO R3 (CH340)**          | <img src="https://github.com/user-attachments/assets/12b00573-a18d-44c7-aaea-52e0c09ddd75" width="50"> |
 | **4x Photo Resistive Sensor Modules**  | ![LDR](ldr_image_link)             |
 | **2x SG90 Servo Motors**               | ![SG90 Servo](servo_image_link)    |
 | **1x 6V 3W Monocrystalline Solar Panel** | ![Solar Panel](solar_image_link)  |

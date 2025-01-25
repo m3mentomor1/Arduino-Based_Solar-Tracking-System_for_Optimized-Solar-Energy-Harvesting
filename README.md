@@ -3,7 +3,6 @@
 </div>
 
 ### 🧐 I. Overview
-![image-Photoroom](https://github.com/user-attachments/assets/0c381dae-e637-4c3d-9a8b-653cacde404f)
 
 This project demonstrates the development of an Arduino-based solar tracking system designed to optimize the energy capture efficiency of solar panels. The system adjusts the panel's orientation in real-time, following the brightest light source, ensuring the solar panel remains aligned with the optimal sunlight direction for maximum energy absorption.
 <br><br>

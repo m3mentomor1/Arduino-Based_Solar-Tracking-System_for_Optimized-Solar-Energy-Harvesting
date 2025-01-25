@@ -36,6 +36,7 @@ A user-friendly dashboard displays real-time sensor readings, panel orientation,
 | **4x Photo Resistive Sensor Modules**  | <img src="https://github.com/user-attachments/assets/d706ab33-2ba5-401e-b621-85f91b8edd7b" width="200"> |
 | **2x SG90 Servo Motors**               | <img src="https://github.com/user-attachments/assets/5a9c992c-10c1-4f3c-8b32-08c6e7bf3c4d" width="150"> |
 | **1x 6V 3W Monocrystalline Solar Panel** | <img src="https://github.com/user-attachments/assets/b88e35ab-a783-447a-b378-f9432023286c" width="200"> |
+| **1x 18650 Mobile Power Shield** | <img src="https://github.com/user-attachments/assets/e8df6d0c-537a-4c0e-8358-2d442eb7fb7d" width="200"> |
 | **4x 18650 3.7V Lithium-Ion Batteries** | <img src="https://github.com/user-attachments/assets/1400f348-b5d6-431a-9b2c-f66358775593" width="150"> |
 
 <br><br>

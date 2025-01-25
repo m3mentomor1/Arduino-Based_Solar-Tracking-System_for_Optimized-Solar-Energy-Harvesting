@@ -35,7 +35,7 @@ A user-friendly dashboard displays real-time sensor readings, panel orientation,
 - **1x 6V 3W Monocrystalline Solar Panel**: Harvests solar energy.<br>
 - **4x 18650 Lithium-Ion Batteries**: Stores energy harvested by the solar panel for system operation.
 
-| **Component**                          | **What it looks like**             |
+| **Component**                          |                                    |
 |----------------------------------------|------------------------------------|
 | **1x Arduino UNO R3 (CH340)**          | <img src="https://github.com/user-attachments/assets/12b00573-a18d-44c7-aaea-52e0c09ddd75" width="200"> |
 | **4x Photo Resistive Sensor Modules**  | <img src="https://github.com/user-attachments/assets/d706ab33-2ba5-401e-b621-85f91b8edd7b" width="200"> |

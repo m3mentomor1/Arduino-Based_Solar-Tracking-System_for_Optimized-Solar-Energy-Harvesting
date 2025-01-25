@@ -27,11 +27,11 @@ A user-friendly dashboard displays real-time sensor readings, panel orientation,
 
 ### ⚙️ III. Hardware Components
 
-**Arduino UNO**: Central controller to manage sensors, servos, and the tracking algorithm.<br>
-**Photo Resistive Sensor Modules**: Used to measure the light intensity at four different positions (Top Left, Top Right, Bottom Left, and Bottom Right).<br>
-**SG90 Servo Motors**: Used to adjust the horizontal and vertical angles of the solar panel.<br>
-**6V 3W Monocrystalline Solar Panel**: Harvests solar energy.<br>
-**18650 Lithium-Ion Batteries**: Stores energy harvested by the solar panel for system operation.
+- **Arduino UNO**: Central controller to manage sensors, servos, and the tracking algorithm.<br>
+- **Photo Resistive Sensor Modules**: Used to measure the light intensity at four different positions (Top Left, Top Right, Bottom Left, and Bottom Right).<br>
+- **SG90 Servo Motors**: Used to adjust the horizontal and vertical angles of the solar panel.<br>
+- **6V 3W Monocrystalline Solar Panel**: Harvests solar energy.<br>
+- **18650 Lithium-Ion Batteries**: Stores energy harvested by the solar panel for system operation.
 <br><br>
 ##
 

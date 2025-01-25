@@ -24,6 +24,8 @@ The system utilizes an Arduino UNO microcontroller to process sensor data and co
 
 #### ✅ Application Software
 A user-friendly dashboard displays real-time sensor readings, panel orientation, and power consumption. The software also provides an interface to monitor the solar tracking system and track the performance of the solar panel, including its real-time light intensity and adjustments.
+<br><br>
+##
 
 ### ⚙️ III. Hardware Components
 

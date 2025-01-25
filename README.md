@@ -35,7 +35,10 @@ A user-friendly dashboard displays real-time sensor readings, panel orientation,
 <br><br>
 ##
 
-### 💻 III. Software Components
+### 💻 IV. Software Components
 
+**Tech Stack**: ``C/C++ (Arduino Framework)`` ``Python`` ``Tkinter`` ``pySerial``
+<br><br>
+##
 
 

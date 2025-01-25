@@ -34,6 +34,7 @@ A user-friendly dashboard displays real-time sensor readings, panel orientation,
 | **1x Arduino UNO R3 (CH340)**          | <img src="https://github.com/user-attachments/assets/12b00573-a18d-44c7-aaea-52e0c09ddd75" width="200"> |
 | **USB 2.0 Cable Type A/B**          | <img src="https://github.com/user-attachments/assets/d5be9f18-b856-4a3b-909c-c7a78e7d45f0" width="170"> |
 | **1x V5.0 Sensor Shield Expansion Board** | <img src="https://github.com/user-attachments/assets/51cc272f-a892-4ac0-9541-fbcb1803667d" width="180"> |
+| **4xx 3-Pin Dupont Wire (F-F)** | <img src="https://github.com/user-attachments/assets/168f023c-af6d-4f9d-91cd-42b16b631be2" width="180"> |
 | **4x Photo Resistive Sensor Modules**  | <img src="https://github.com/user-attachments/assets/d706ab33-2ba5-401e-b621-85f91b8edd7b" width="200"> |
 | **2x SG90 Servo Motors**               | <img src="https://github.com/user-attachments/assets/5a9c992c-10c1-4f3c-8b32-08c6e7bf3c4d" width="150"> |
 | **1x 6V 3W Monocrystalline Solar Panel** | <img src="https://github.com/user-attachments/assets/b88e35ab-a783-447a-b378-f9432023286c" width="200"> |

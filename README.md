@@ -32,7 +32,7 @@ A user-friendly dashboard displays real-time sensor readings, panel orientation,
 | **Component**                          |                                    |
 |----------------------------------------|------------------------------------|
 | **1x Arduino UNO R3 (CH340)**          | <img src="https://github.com/user-attachments/assets/12b00573-a18d-44c7-aaea-52e0c09ddd75" width="200"> |
-| **USB 2.0 Cable Type A/B**          | <img src="https://github.com/user-attachments/assets/d5be9f18-b856-4a3b-909c-c7a78e7d45f0" width="200"> |
+| **USB 2.0 Cable Type A/B**          | <img src="https://github.com/user-attachments/assets/d5be9f18-b856-4a3b-909c-c7a78e7d45f0" width="170"> |
 | **1x V5.0 Sensor Shield Expansion Board** | <img src="https://github.com/user-attachments/assets/51cc272f-a892-4ac0-9541-fbcb1803667d" width="180"> |
 | **4x Photo Resistive Sensor Modules**  | <img src="https://github.com/user-attachments/assets/d706ab33-2ba5-401e-b621-85f91b8edd7b" width="200"> |
 | **2x SG90 Servo Motors**               | <img src="https://github.com/user-attachments/assets/5a9c992c-10c1-4f3c-8b32-08c6e7bf3c4d" width="150"> |
@@ -40,7 +40,7 @@ A user-friendly dashboard displays real-time sensor readings, panel orientation,
 | **1x USB Charge Detector** | <img src="https://github.com/user-attachments/assets/3b7d2f20-9343-40e5-9533-4d17634d0447" width="200"> |
 | **1x 18650 Mobile Power Shield** | <img src="https://github.com/user-attachments/assets/e8df6d0c-537a-4c0e-8358-2d442eb7fb7d" width="200"> |
 | **4x 18650 3.7V Lithium-Ion Batteries** | <img src="https://github.com/user-attachments/assets/1400f348-b5d6-431a-9b2c-f66358775593" width="150"> |
-| **1x 18650 Battery Case** | <img src="https://github.com/user-attachments/assets/1e0f5a8a-1ff2-44b8-be91-317a4efa6975" width="150"> |
+| **1x 18650 Battery Case** | <img src="https://github.com/user-attachments/assets/1e0f5a8a-1ff2-44b8-be91-317a4efa6975" width="200"> |
 
 <br><br>
 ##

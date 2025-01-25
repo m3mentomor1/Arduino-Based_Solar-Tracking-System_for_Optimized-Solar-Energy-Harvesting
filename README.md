@@ -42,7 +42,6 @@ A user-friendly dashboard displays real-time sensor readings, panel orientation,
 | **1x 18650 Mobile Power Shield** | <img src="https://github.com/user-attachments/assets/e8df6d0c-537a-4c0e-8358-2d442eb7fb7d" width="200"> |
 | **4x 18650 3.7V Lithium-Ion Batteries** | <img src="https://github.com/user-attachments/assets/1400f348-b5d6-431a-9b2c-f66358775593" width="150"> |
 | **1x 18650 Battery Case** | <img src="https://github.com/user-attachments/assets/1e0f5a8a-1ff2-44b8-be91-317a4efa6975" width="200"> |
-
 <br><br>
 ##
 
